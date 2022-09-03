@@ -2,7 +2,7 @@
 Discord-Based Queue W/ Minigames, Configurable Images, Links, &amp; Configurable Names!
 
 # How To Install
-1. Drag & Drop "Spoody-Queue" Into your resources folder.
+1. Drag & Drop "Jounie-Queue-Main" Into your resources folder.
 2. Properly Configure the Config. (Bot Token, Roles, Etc)
 3. Start In Server.CFG!
 4. Enjoy! (Don't forget to change the links in postcard.json!)
@@ -13,4 +13,4 @@ which means no-one can access this with dumping!
 
 # Support
 
-For any support join my discord @ discord.gg/spoody
+For any support contact my discord Jounie#9903
